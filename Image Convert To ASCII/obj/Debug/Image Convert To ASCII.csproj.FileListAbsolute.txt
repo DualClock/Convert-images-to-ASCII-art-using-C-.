@@ -1,0 +1,10 @@
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\bin\Debug\Image Convert To ASCII.exe.config
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\bin\Debug\Image Convert To ASCII.exe
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\bin\Debug\Image Convert To ASCII.pdb
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\obj\Debug\Image Convert To ASCII.csproj.AssemblyReference.cache
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\obj\Debug\Image Convert To ASCII.csproj.CoreCompileInputs.cache
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\obj\Debug\Image Convert To ASCII.exe
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\obj\Debug\Image Convert To ASCII.pdb
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\гриша\source\repos\Image Convert To ASCII\Image Convert To ASCII\obj\Debug\Image Co.CC4E7BA0.Up2Date
